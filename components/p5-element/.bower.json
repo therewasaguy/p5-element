@@ -1,0 +1,26 @@
+{
+  "name": "p5-element",
+  "keywords": [
+    "p5.js",
+    "processing",
+    "polymer",
+    "web-components"
+  ],
+  "main": "p5-element.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.5.1",
+    "p5js": "~0.3.13",
+    "core-collapse": "Polymer/core-collapse#~0.5.5"
+  },
+  "homepage": "https://github.com/sepans/p5-element",
+  "_release": "ab2eb3d2de",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "ab2eb3d2deda168f95d70b14241cbf121714f48f"
+  },
+  "_source": "git://github.com/sepans/p5-element.git",
+  "_target": "master",
+  "_originalSource": "sepans/p5-element",
+  "_direct": true
+}
